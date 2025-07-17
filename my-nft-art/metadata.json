@@ -1,0 +1,11 @@
+{
+  "name": "Victor's NFT - Lucky #1",
+  "description": "A test NFT uploaded to IPFS and listed on OpenSea.",
+  "image": "ipfs://bafybeicwdmnu2efapmyiauvwpxu2igsujrhsjq6o6ld2jqkn5sqsfbzjue",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "Legendary"
+    }
+  ]
+}
